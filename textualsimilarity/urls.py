@@ -27,5 +27,8 @@ urlpatterns = [
     path('dashboard/', views.dashboard, name='dashboard'),
     path('accounts/', include('allauth.urls')),
     path('guardar_contenido/', views.guardar_contenido, name='guardar_contenido'),
-
+    path('hola_mundo_json/', views.hola_mundo_json, name='hola_mundo_json'),
+    path('consumir_hola_mundo_json/', views.consumir_hola_mundo_json, name='consumir_hola_mundo_json'),
+    path('recibirCorpus/',views.TextoSim, name='recibirCorpus'),
+    path('api/', views.api_view, name='api'),
 ]

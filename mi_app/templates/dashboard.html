@@ -7,26 +7,69 @@
     <style>
         /* Estilos para el fondo oscuro */
         body {
-            background-color: #333;
+            background-color: #343a40;
             color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        /* Estilos para el dashboard */
+        .dashboard {
+            width: 100%;
+            max-width: 600px;
         }
         .card {
             background-color: #444;
+            border: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .card-header {
+            background-color: #333;
+            border-bottom: none;
+            font-weight: bold;
+        }
+        .card-body {
+            padding: 20px;
+        }
+        .progress {
+            height: 10px;
+            margin-bottom: 20px;
+        }
+        .progress-bar {
+            background-color: #007bff;
+        }
+        .info-card {
+            background-color: #444;
             color: white;
+            border: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Dashboard</h1>
+    <div class="dashboard">
+        <div class="info-card">
+            <div class="card-body">
+                <p>Pensemos en el tipo de interacción que hemos introducido...</p>
+                <p>...definida mediante:</p>
+                <p class="mt-4">F = U − T S</p>
+                <p>donde U es la energía interna y TS es el producto entre la temperatura y la entropía.</p>
+            </div>
+        </div>
+        <br>
         <div class="row">
-            <div class="col">
+            <div class="col-lg-12">
                 <div class="card">
+                    <div class="card-header">
+                        Score
+                    </div>
                     <div class="card-body">
-                        <h5 class="card-title">Score</h5>
-                        <p class="card-text" style="color: {% if score >= 100 %}red{% else %}white{% endif %}">
-                            {{ score|floatformat:2 }}
-                        </p>
+                        <h2 class="mb-4">{{ score|floatformat:2 }}</h2>
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" style="width: {{ score }}%;" aria-valuenow="{{ score }}" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
                     </div>
                 </div>
             </div>
