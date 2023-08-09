@@ -1,0 +1,105 @@
+Oración Original,Oración Modificada,Paráfrasis
+El perro corre al parque.,El perro va al parque.,True
+La gata duerme en el tejado.,La gata descansa en el tejado.,True
+El niño come una manzana.,El niño se alimenta con una manzana.,True
+La casa es grande y hermosa.,La casa es amplia y bonita.,True
+El árbol tiene hojas verdes.,El árbol posee hojas verdes.,True
+El auto rojo pasa por la calle.,El coche rojo circula por la calle.,True
+La montaña es alta y nevada.,La montaña es elevada y cubierta de nieve.,True
+El perro ladra fuerte.,El perro ladra en voz alta.,True
+La gata juega con el hilo.,La gata se entretiene con el hilo.,True
+El niño estudia para el examen.,El niño se prepara para el examen.,True
+La niña baila con gracia.,La niña se mueve con gracia.,True
+El auto corre a toda velocidad.,El coche va a toda velocidad.,True
+La casa tiene un jardín bonito.,La casa cuenta con un bonito jardín.,True
+El árbol da sombra en verano.,El árbol proporciona sombra en verano.,True
+El perro come su comida.,El perro se alimenta.,True
+La gata duerme en la cama.,La gata descansa en la cama.,True
+El niño juega en el parque.,El niño se divierte en el parque.,True
+La niña estudia para la prueba.,La niña se prepara para la prueba.,True
+El auto rojo es muy rápido.,El coche rojo es muy veloz.,True
+La casa tiene dos pisos.,La casa cuenta con dos pisos.,True
+El árbol da frutos en otoño.,El árbol produce frutos en otoño.,True
+El perro ladra a los extraños.,El perro ladra a los desconocidos.,True
+La gata juega con una bola de lana.,La gata se divierte con una bola de lana.,True
+El niño come helado.,El niño consume helado.,True
+La niña canta una canción.,La niña entona una canción.,True
+El auto rojo se estaciona.,El coche rojo se estaciona.,True
+La casa tiene un tejado de tejas.,La casa posee un tejado de tejas.,True
+El árbol pierde sus hojas en otoño.,El árbol arroja sus hojas en otoño.,True
+El perro persigue al gato.,El perro persigue al felino.,True
+La gata maulla en la noche.,La gata emite sonidos en la noche.,True
+El niño juega con sus amigos.,El niño se divierte con sus amigos.,True
+La niña estudia en la biblioteca.,La niña se prepara en la biblioteca.,True
+El auto rojo tiene una raya negra.,El coche rojo tiene una franja negra.,True
+La casa tiene ventanas grandes.,La casa cuenta con ventanas grandes.,True
+El árbol crece lentamente.,El árbol se desarrolla lentamente.,True
+El perro se sienta cuando le dicen.,El perro se coloca cuando le dicen.,True
+La gata se esconde debajo del sofá.,La gata se oculta debajo del sofá.,True
+El niño juega fútbol en el parque.,El niño juega al fútbol en el parque.,True
+La niña canta en el coro de la escuela.,La niña entona en el coro de la escuela.,True
+El auto rojo necesita gasolina.,El coche rojo requiere gasolina.,True
+La casa tiene un jardín en el patio trasero.,La casa posee un jardín en el patio trasero.,True
+El árbol da sombra en verano.,El árbol proporciona sombra en el verano.,True
+El perro ladra a los extraños.,El perro ladra a las personas desconocidas.,True
+La gata juega con una bola de lana.,La gata se divierte con una bola de estambre.,True
+El niño come helado.,El niño consume helado de postre.,True
+La niña canta una canción.,La niña entona una melodía.,True
+El auto rojo se estaciona.,El coche rojo se aparca.,True
+La casa tiene un tejado de tejas.,La casa cuenta con un tejado de tejas rojas.,True
+El árbol pierde sus hojas en otoño.,El árbol arroja sus hojas durante el otoño.,True
+El perro persigue al gato.,El perro va tras el gato.,True
+La gata maulla en la noche.,La gata emite maullidos en la noche.,True
+El niño juega con sus amigos.,El niño se divierte con sus amistades.,True
+La niña estudia en la biblioteca.,La niña se prepara en la biblioteca para el examen.,False
+El auto rojo tiene una raya negra.,El coche rojo tiene una raya blanca.,False
+La casa tiene ventanas grandes.,La casa posee ventanas pequeñas.,False
+El árbol crece lentamente.,El árbol se desarrolla rápidamente.,False
+El perro se sienta cuando le dicen.,El perro se acuesta cuando le dicen.,False
+La gata se esconde debajo del sofá.,La gata se muestra debajo del sofá.,False
+El niño juega fútbol en el parque.,El niño estudia en el parque.,False
+La niña canta en el coro de la escuela.,La niña baila en el coro de la escuela.,False
+El auto rojo necesita gasolina.,El coche rojo necesita electricidad.,False
+La casa tiene un jardín en el patio trasero.,La casa posee un jardín en el patio delantero.,False
+El árbol da sombra en verano.,El árbol da frutos en verano.,False
+El perro ladra a los extraños.,El perro ladra a los perros.,False
+La gata juega con una bola de lana.,La gata juega con una bola de hilo.,False
+El niño come helado.,El niño come ensalada.,False
+La niña canta una canción.,La niña lee un libro.,False
+El auto rojo se estaciona.,El coche rojo se va.,False
+La casa tiene un tejado de tejas.,La casa tiene un tejado de metal.,False
+El árbol pierde sus hojas en otoño.,El árbol crece sus hojas en otoño.,False
+El perro persigue al gato.,El perro juega con el gato.,False
+La gata maulla en la noche.,La gata duerme en la noche.,False
+El niño juega con sus amigos.,El niño estudia con sus amigos.,False
+La niña estudia en la biblioteca.,La niña juega en la biblioteca.,False
+El auto rojo tiene una raya negra.,El coche rojo tiene una raya azul.,False
+La casa tiene ventanas grandes.,La casa tiene ventanas pequeñas.,False
+El árbol crece lentamente.,El árbol se desarrolla rápidamente.,False
+El perro se sienta cuando le dicen.,El perro corre cuando le dicen.,False
+La gata se esconde debajo del sofá.,La gata salta debajo del sofá.,False
+El niño juega fútbol en el parque.,El niño corre en el parque.,False
+La niña canta en el coro de la escuela.,La niña estudia en el coro de la escuela.,False
+El auto rojo necesita gasolina.,El coche rojo necesita aire.,False
+La casa tiene un jardín en el patio trasero.,La casa tiene un jardín en el patio delantero.,False
+El árbol da sombra en verano.,El árbol da frutos en verano.,False
+El perro ladra a los extraños.,El perro juega con los extraños.,False
+La gata juega con una bola de lana.,La gata juega con una bola de papel.,False
+El niño come helado.,El niño come frutas.,False
+La niña canta una canción.,La niña baila una canción.,False
+El auto rojo se estaciona.,El coche rojo se va.,False
+La casa tiene un tejado de tejas.,La casa tiene un tejado de paja.,False
+El árbol pierde sus hojas en otoño.,El árbol crece sus hojas en otoño.,False
+El perro persigue al gato.,El perro juega con el gato.,False
+La gata maulla en la noche.,La gata duerme en la noche.,False
+El niño juega con sus amigos.,El niño estudia con sus amigos.,False
+La niña estudia en la biblioteca.,La niña juega en la biblioteca.,False
+El auto rojo tiene una raya negra.,El coche rojo tiene una raya azul.,False
+La casa tiene ventanas grandes.,La casa tiene ventanas pequeñas.,False
+El árbol crece lentamente.,El árbol se desarrolla rápidamente.,False
+El perro se sienta cuando le dicen.,El perro corre cuando le dicen.,False
+El perro se sienta cuando le dicen.,El perro corre cuando le dicen.,False
+El pescado es un alimento perecedero,El pescado es un alimento vegano,False
+Hola mundo,Hola mundo,True
+El pescado es un alimento perecedero,El pescado es un alimento vegano,False
+Hola mundo,Hola mundo,True

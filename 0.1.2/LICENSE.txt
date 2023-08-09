@@ -1,0 +1,35 @@
+GNU General Public License Version 3
+
+Version 3, June 29, 2007
+
+PREAMBLE
+
+The purpose of this General Public License is to promote the sharing, use, and modification of software and other works within the field of Natural Language Processing (NLP) and Machine Learning. We believe that open and free access to AI technologies is crucial for the advancement of scientific research and the evolution of artificial intelligence.
+
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTING, AND MODIFYING
+
+    You are free to copy and distribute verbatim copies of the source code covered by this GNU General Public License, in any medium, provided that you retain all copyright notices and the legal notice of this license.
+
+    You have the freedom to modify your copy or copies of the source code, or any portion of it, and distribute the resulting copy under the terms of this GNU General Public License.
+
+    If you transmit copies of verbatim or modified source code, you must give the recipients the same freedoms that you enjoy.
+
+    You may not impose any further restrictions on the use, copying, distribution, or modification of the source code beyond those allowed by this GNU General Public License.
+
+PATENT GRANT
+
+    If you modify, or combine your work with other software that is subject to the GNU General Public License, you grant a perpetual, worldwide, non-exclusive, royalty-free, and patent-free license to copy, distribute, publicly display, or publicly perform the derived work, either in whole or in part, for research and development purposes, or for educational and non-commercial purposes.
+
+    If you own patents or other rights that apply to your work and are necessary to make, use, sell, import, or distribute the derived work, you agree to grant those rights to anyone who receives a copy of the derived work, on the same terms and conditions as stated in this GNU General Public License.
+
+DISCLAIMER OF WARRANTY
+
+This software and any other work under this GNU General Public License is provided "as is" without warranty of any kind, either express or implied, including, but not limited to, warranties of merchantability or fitness for a particular purpose. You assume the risk of any damages that may occur as a result of using this software.
+
+LIMITATION OF LIABILITY
+
+In no event shall the author or copyright holders be liable for any claims, damages, or other liabilities, whether in contract, tort, or otherwise, arising out of, or in connection with this software or any other work under this GNU General Public License.
+
+All trademarks, service marks, and trade names mentioned in this software are the property of their respective owners and are used for informational purposes only.
+
+END OF THE GNU GENERAL PUBLIC LICENSE TEXT
