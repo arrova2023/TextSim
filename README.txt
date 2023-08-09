@@ -2,4 +2,4 @@ This project is another line of research of the "Textual Similarity" project, th
 
 Run with Python 10 or higher
 
-python3.10 manage.py runtime server
+	python3.10 manage.py runtime server
