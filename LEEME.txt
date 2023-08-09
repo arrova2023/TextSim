@@ -1,0 +1,5 @@
+Este proyecto es otra línea de investigación del proyecto "Textual Similarity", la unica diferencia es que en este proyecto se desarrolló una REST API mediante la cual se puede utilizar el modelo de Red Recurrente Neuronal, dicho servicio REST fue desarrollado con Django.
+
+Ejecutar con Python 10 o superrior
+
+	python3.10 manage.py runserver
