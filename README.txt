@@ -1,5 +1,17 @@
-This project is another line of research of the "Textual Similarity" project, the only difference is that in this project a REST API was developed through which the Recurrent Neural Network model can be used, said REST service was developed with Django.
+Este proyecto es otra línea de investigación del proyecto "Textual Similarity", la unica diferencia es que en este proyecto se desarrolló una REST API mediante la cual se puede utilizar el modelo de Red Recurrente Neuronal, dicho servicio REST fue desarrollado con Django.
 
-Run with Python 10 or higher
+Ejecutar con Python 10 o superrior
 
-	python3.10 manage.py runtime server
+	python3.10 manage.py runserver
+
+Los proyectos "TextualSimiliraty" y "TextSimil" cumplen con el mismo objetivo, la única diferencia entre ambos es el paradigma en el cual esta implementada cada solución las cuales se describen a continuación:
+
+1.- TextSimiliraty:
+	Red Neuronal Recurrente de Hopfield basada en el Modelo de Ising para generar un análisis combinatorio el cual permite saber si un par de enunciados son lingüisticamente relacionados respecto a su carga semántica, todo su ciclo de ejecución es Stand-alone y se ejecuta desde la línea de comandos, es un proyecto propio de las áreas de Procesamiento de Lenguaje Natural, Aprendizaje Automático, Reconocimiento de Patrones e Inteligencia Artificial en general.
+
+2.- TextSimil(this project):
+	Este proyecto es una implementación de las funcionalidades de "TextSimilarity" utilizando Django 4.2.4 para poder utilizar este modelo de Aprendizaje Automático de PLN mediante una API REST para poder consumir la Red Neuronal Recurrente de Hopfield bajo cualquier cirscuntancia posible, ya sea para pruebas de laboratorio(precisión, cobertura, f1score), pruebas unitarias para desarrollo de chatbots o cualquiera que sea la forma en que esta API decida ser consumida por el usuario, este proyecto se encuentra enfocado dentro de la Arquitectura Orientada a Servicios por lo que es un plus para facilitar la implementación de "TextSimilarity" bajo cualquier entorno controlado de experimentación, pruebas o cualquier tipo de evento relacionado con la generación de los resultados de esta Máquina de Aprendizaje basada en la Red Neurona Recurrente de Hopfield.
+
+	En resumen, "TextSim" actúa como un puente entre el modelo de Red Neuronal Recurrente de Hopfield y usuarios que buscan acceder a sus capacidades mediante una interfaz amigable y robusta. El proyecto brinda la oportunidad de aprovechar las ventajas del análisis de similitud textual en una variedad de escenarios, gracias a su enfoque en API REST y su adaptabilidad en ambientes controlados de investigación y desarrollo.
+
+En definitiva, este proyecto representa una evolución natural de la investigación original "Textual Similarity", abriendo nuevas puertas al mundo de las aplicaciones prácticas mediante una REST API desarrollada con Django. "TextSim" ofrece no solo la funcionalidad de la Red Neuronal Recurrente de Hopfield, sino también una manera eficiente y conveniente de utilizarla en múltiples contextos. A medida que la tecnología avanza y las necesidades cambian, "TextSim" destaca como un ejemplo de cómo una sólida base de investigación puede converger con las demandas prácticas del mundo real a través de soluciones innovadoras.
